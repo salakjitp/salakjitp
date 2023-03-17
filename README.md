@@ -2,10 +2,11 @@
 
 I'm specializing in frontend development. Strong in develop application using JavaScript 
 framework, HTML, CSS, JavaScript and I develop API using node.js and ASP.NET Core. Experienced 
-design, develop, test, deploy and maintain web applications. Interesting in new technology and 
-knowledge. I am able to learn for improve skills or knowledge by myself.
+design, develop, test, deploy and maintain web applications. 
 
-I’m currently learning Kotiln and Flutter to improve my moblie programming skills.
+I'm interested in new technology and knowledge. I'm able to learn for improve skills or knowledge by myself.
+
+I'm currently learning Kotlin and Flutter to improve my mobile programming skills.
 
 
 ![Salakjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=salakjitp&show_icons=true&theme=transparent&count_private=true)
