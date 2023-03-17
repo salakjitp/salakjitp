@@ -7,6 +7,12 @@ knowledge. I am able to learn for improve skills or knowledge by myself.
 
 I’m currently learning Kotiln and Flutter to improve my moblie programming skills.
 
+
+![Salakjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=salakjitp&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salakjitp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **salakjitp/salakjitp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
