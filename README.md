@@ -11,7 +11,7 @@ I'm currently learning Kotlin and Flutter to improve my mobile programming skill
 
 ![Salakjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=salakjitp&show_icons=true&theme=transparent&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salakjitp&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salakjitp&layout=compact)
 
 <!-- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salakjitp&repo=vue-jspdf&theme=transparent)](https://github.com/salakjitp/vue-jspdf)
