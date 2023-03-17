@@ -13,6 +13,9 @@ I'm currently learning Kotlin and Flutter to improve my mobile programming skill
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salakjitp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salakjitp&repo=vue-jspdf&theme=transparent)](https://github.com/salakjitp/vue-jspdf)
+-->
 
 <!--
 **salakjitp/salakjitp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
