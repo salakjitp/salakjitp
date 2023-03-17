@@ -8,7 +8,7 @@ knowledge. I am able to learn for improve skills or knowledge by myself.
 I’m currently learning Kotiln and Flutter to improve my moblie programming skills.
 
 
-![Salakjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=salakjitp&show_icons=true&theme=transparent)
+![Salakjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=salakjitp&show_icons=true&theme=transparent&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salakjitp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
