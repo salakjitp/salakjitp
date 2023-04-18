@@ -1,4 +1,7 @@
-<!-- ### Hi there 👋 -->
+### Hi there 👋
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/salakjitp)
+
 
 I'm specializing in frontend development. Strong in develop application using JavaScript 
 framework, HTML, CSS, JavaScript and I develop API using node.js and ASP.NET Core. Experienced 
