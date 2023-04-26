@@ -2,7 +2,6 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/salakjitp)
 
-
 I'm specializing in frontend development. Strong in develop application using JavaScript 
 framework, HTML, CSS, JavaScript and I develop API using node.js and ASP.NET Core. Experienced 
 design, develop, test, deploy and maintain web applications. 
@@ -39,13 +38,18 @@ I'm currently learning Kotlin and Flutter to improve my mobile programming skill
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![Salakjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=salakjitp&show_icons=true&theme=transparent&count_private=true)
+### 📊 GitHub Stats:
+
+![Salakjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=salakjitp&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salakjitp&layout=compact)
 
 <!-- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salakjitp&repo=vue-jspdf&theme=transparent)](https://github.com/salakjitp/vue-jspdf)
 -->
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=salakjitp&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 <!--
 **salakjitp/salakjitp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
