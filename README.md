@@ -18,6 +18,7 @@ I'm currently learning Kotlin and Flutter to improve my mobile programming skill
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![image](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![image](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
@@ -31,26 +32,26 @@ I'm currently learning Kotlin and Flutter to improve my mobile programming skill
 ![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 -->
 
-### Database
-
+### Database 
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 📊 GitHub Stats:
+<!-- 
+### 📊 GitHub Stats 👍: 
 
 ![Salakjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=salakjitp&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salakjitp&layout=compact)
-
+-->
 <!-- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salakjitp&repo=vue-jspdf&theme=transparent)](https://github.com/salakjitp/vue-jspdf)
 -->
-
+<!-- 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=salakjitp&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
+-->
 <!--
 **salakjitp/salakjitp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
